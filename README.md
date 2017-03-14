@@ -1,12 +1,12 @@
-# _{First WebPages}_
+# _First WebPages_
 
-#### _{Images, links, inline elements, and block elements}, {3-14-2017}_
+#### _Images, links, inline elements, and block elements, 3-14-2017_
 
-#### By _**{Ilene, Aaron}**_
+#### By _**Ilene, Aaron**_
 
 ## Description
 
-_{Our web pages include photos of dogs and cats, things we like (mostly dogs and cats), and some amount of other things. }_
+_Our web pages include photos of dogs and cats, things we like (mostly dogs and cats), and some amount of other things._
 
 ## Setup/Installation Requirements
 
